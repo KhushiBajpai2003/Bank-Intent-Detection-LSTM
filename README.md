@@ -35,12 +35,12 @@ Expand Dataset: Incorporate more diverse and extensive data to improve model gen
 Multi-Language Support: Extend the model to support multiple languages for global applicability.
 Integration with Live Systems: Implement the model in real-time customer support systems for live query handling.
 
-Contributing
+# Contributing
 Contributions are welcome! Please fork this repository and submit pull requests with your improvements.
 
-License
+# License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Acknowledgements
+# Acknowledgements
 Special thanks to the open-source community for providing valuable resources and tools.
 Gratitude to the contributors and reviewers who helped enhance this project.
