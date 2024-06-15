@@ -26,13 +26,15 @@ Embedding Layer: Converts input text into dense vectors of fixed size.
 LSTM Layer: Captures the temporal dependencies in the query sequences.
 Dense Layers: Fully connected layers to map the LSTM outputs to the desired number of categories.
 Output Layer: Uses a softmax activation function to classify the queries into one of the predefined categories.
-Results
+
+# Results
 The model's performance is evaluated using metrics such as accuracy, precision, recall, and F1-score. The results indicate that the LSTM model effectively classifies user queries with high accuracy, significantly improving the efficiency and accuracy of customer support responses.
 
-Future Work
+# Future Work
 Expand Dataset: Incorporate more diverse and extensive data to improve model generalization.
 Multi-Language Support: Extend the model to support multiple languages for global applicability.
 Integration with Live Systems: Implement the model in real-time customer support systems for live query handling.
+
 Contributing
 Contributions are welcome! Please fork this repository and submit pull requests with your improvements.
 
