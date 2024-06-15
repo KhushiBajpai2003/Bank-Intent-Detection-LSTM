@@ -1,19 +1,9 @@
 
 # Intent Detection using LSTM on Bank Dataset
-Project Overview
+
+# Project Overview
 This project aims to enhance customer support efficiency and accuracy in banking services by utilizing a Long Short-Term Memory (LSTM) model to classify user queries into predefined categories. These categories include user information, debit/credit card issues, and transaction problems. By automating the intent detection process, banks can respond more quickly and accurately to customer inquiries.
 
-Table of Contents
-Introduction
-Dataset
-Model Architecture
-Installation
-Usage
-Results
-Future Work
-Contributing
-License
-Acknowledgements
 Introduction
 Customer support is a critical component of the banking industry, where timely and accurate responses to customer inquiries can significantly improve user satisfaction. This project leverages machine learning, specifically an LSTM model, to classify user queries into specific categories, thereby streamlining the customer support process.
 
